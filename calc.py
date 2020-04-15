@@ -11,7 +11,8 @@ def multi(a,b):
 
     return res
 
-a,b=map(int, input().split())
-minus(a,b)
-plus(a,b)
-multi(a,b)
+if __name__=='__main__':
+    a,b=map(int, input().split())
+    minus(a,b)
+    plus(a,b)
+    multi(a,b)
