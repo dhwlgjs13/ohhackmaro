@@ -3,8 +3,7 @@ def minus(a, b):
 
     return res
 def plus(a,b):
-    res=int
-    res=a+b
+    res=int(a+b)
     return res
 def multi(a,b):
     res=int
