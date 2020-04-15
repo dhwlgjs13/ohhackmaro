@@ -1,2 +1,2 @@
 def minus(a,b):
-    return abs(a-b)
+    return a-b
