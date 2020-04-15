@@ -7,7 +7,7 @@ def plus(a,b):
     return res
 def multi(a,b):
     res=int
-
+    res=a*b
     return res
 
 if __name__=='__main__':
