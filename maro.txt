@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 maro test1
 test2
+=======
+maro test1
+>>>>>>> e4c49ad6cca87b420a099ba7811cb9ac700141cf
