@@ -7,12 +7,12 @@ def plus(a,b):
 
     return res
 def multi(a,b):
-    res=int
+    res=int(a*b)
 
     return res
 
 if __name__=='__main__':
     a,b=map(int, input().split())
-    minus(a,b)
-    plus(a,b)
-    multi(a,b)
+    print(minus(a,b))
+    print(plus(a,b))
+    print(multi(a,b))
