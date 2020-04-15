@@ -1,5 +1,5 @@
 def minus(a, b):
-    res=int
+    res=a-b
 
     return res
 def plus(a,b):
